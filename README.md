@@ -1,1 +1,6 @@
 # superninja
+body{
+    margin: 0;
+    background: pink;
+    text-align: center;
+}
